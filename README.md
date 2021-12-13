@@ -7,7 +7,7 @@ E-commerce company Ebuss wants to build a model that will improve the recommenda
 In order to do this, a sentiment-based product recommendation system has been developed. 
 
 The Recommendation system is up and runing on the below url:
-https://sentiment-bprs.herokuapp.com/
+https://sentiment-based-prod-reco.herokuapp.com/
 
 All the source code and supported files in github: https://github.com/mk-labs/sentiment_based_prod_reco.git
 
